@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+A highly trustworthy dropshipping online store targeting children and teenagers aged 10 and above. The store aims to attract young shoppers with an engaging, fu
+
+### תכונות
+https://example.com/features
+תכונות | NextGen Store. muscletech hydroxycut hardcore next gen
+
+### אודות
+https://example.com/about
+אודות | NextGen Store. muscletech hydroxycut hardcore next gen
+
+### צור קשר
+https://example.com/contact
+צור קשר | NextGen Store. muscletech hydroxycut hardcore next gen
+
+### Products
+https://example.com/products
+המוצרים שלנו - NextGen Store
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - NextGen Store
+
+### Category
+https://example.com/category/:slug
+מוצרים - NextGen Store
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
